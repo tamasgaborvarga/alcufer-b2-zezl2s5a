@@ -1,0 +1,6 @@
+:HL["/alcufer-b2-zezl2s5a/_next/static/chunks/0qz54_is7lg3i.css","style"]
+:HC["/",""]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"elektronikai-berendezesek","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"tevekenysegeink","h":131136,"c":"$Q2"}]]
+0:{"b":"imqQUsnundDDCcr1KaZM2","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}

@@ -1,5 +1,5 @@
-:HL["/alcufer-b2-zezl2s5a/_next/static/chunks/1g_rwhky0bcn_.css","style"]
+:HL["/alcufer-b2-zezl2s5a/_next/static/chunks/0lrsk0fpzxxnc.css","style"]
 :HC["/",""]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"telephelyek","h":64,"c":"$Q2"}]]
-0:{"b":"4lvWROEMJTA0uhrCJ8iIt","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"hRMp-pDMZArUftr__CwAY","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

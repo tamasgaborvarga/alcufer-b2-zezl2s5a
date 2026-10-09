@@ -62,12 +62,12 @@
   if(!/[?&]intro=hold\b/.test(location.search))setTimeout(finish,2400);
   ov.addEventListener("click",finish);
 })();8:X
-0:{"t":{"t":{"s":"","h":16,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/alcufer-b2-zezl2s5a/_next/static/chunks/1dn19rmtn2czv.css","precedence":"next"}],["$","script","script-0",{"src":"/alcufer-b2-zezl2s5a/_next/static/chunks/0umf92h1sb77c.js","async":true}],["$","script","script-1",{"src":"/alcufer-b2-zezl2s5a/_next/static/chunks/1ykfkw_8_962a.js","async":true}]],["$","html",null,{"lang":"hu","suppressHydrationWarning":true,"children":["$","body",null,{"className":"flex min-h-dvh flex-col","children":[[["$","div",null,{"id":"acf-intro","aria-hidden":"true","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":""}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],"$L3","$L4","$L5","$L6"]}]}]]}],"p":"$@7","v":null,"s":"$8"}}},"a":"$@9","u":"$@a","b":"qSdXfzu5Ib9lY8g551Ns7"}
+0:{"t":{"t":{"s":"","h":16,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/alcufer-b2-zezl2s5a/_next/static/chunks/1dn19rmtn2czv.css","precedence":"next"}],["$","script","script-0",{"src":"/alcufer-b2-zezl2s5a/_next/static/chunks/0umf92h1sb77c.js","async":true}],["$","script","script-1",{"src":"/alcufer-b2-zezl2s5a/_next/static/chunks/1ykfkw_8_962a.js","async":true}]],["$","html",null,{"lang":"hu","suppressHydrationWarning":true,"children":["$","body",null,{"className":"flex min-h-dvh flex-col","children":[[["$","div",null,{"id":"acf-intro","aria-hidden":"true","suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":""}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],"$L3","$L4","$L5","$L6"]}]}]]}],"p":"$@7","v":null,"s":"$8"}}},"a":"$@9","u":"$@a","b":"EgOdwrI91XrzmuPGGYDHL"}
 b:"/alcufer-b2-zezl2s5a/_next/static/chunks/0umf92h1sb77c.js"
 c:"/alcufer-b2-zezl2s5a/_next/static/chunks/1ykfkw_8_962a.js"
 d:I[69097,["$b","$c"],"ConsentProvider"]
 e:"/alcufer-b2-zezl2s5a/_next/static/chunks/298l2-u_hgfbt.js"
-f:"/alcufer-b2-zezl2s5a/_next/static/chunks/0m8icvna34s-s.js"
+f:"/alcufer-b2-zezl2s5a/_next/static/chunks/180d0q21ut_ow.js"
 10:I[22016,["$b","$c","$e","$f"],""]
 11:I[5500,["$b","$c"],"Image"]
 12:"$Sreact.suspense"

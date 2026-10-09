@@ -1,5 +1,5 @@
-:HL["/alcufer-b2-zezl2s5a/_next/static/chunks/0qz54_is7lg3i.css","style"]
+:HL["/alcufer-b2-zezl2s5a/_next/static/chunks/3p699rzp3j1-0.css","style"]
 :HC["/",""]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"adatvedelem","h":64,"c":"$Q2"}]]
-0:{"b":"imqQUsnundDDCcr1KaZM2","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"WN9LnLMdLm5RcApFSx_uB","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

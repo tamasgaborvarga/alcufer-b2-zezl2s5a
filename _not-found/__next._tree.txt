@@ -1,4 +1,4 @@
 :HL["/alcufer-b2-zezl2s5a/_next/static/chunks/0lrsk0fpzxxnc.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
-0:{"b":"hRMp-pDMZArUftr__CwAY","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"WeHLQJMzdwj1iBid-JrrX","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
